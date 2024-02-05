@@ -15,7 +15,7 @@ I'm Rostyslav Sharuiev a Junior Software Engineer with 2 years of experience and
 
 [![Leetcode Badge](https://img.shields.io/badge/leetcode-orange?style=flat&logo=leetcode&logoColor=white)](https://www.leetcode.com/rostyslav_sharuiev)
 
-Scientifyc journal with my [paper](http://elc.kpi.ua/issue/view/17280http://elc.kpi.ua/article/view/277487/275592)
+Scientific journal with my [paper](http://elc.kpi.ua/article/view/277487/275592)
 
 #### Top Technologies
 <p align="left">
