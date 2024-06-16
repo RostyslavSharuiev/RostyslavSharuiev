@@ -8,7 +8,7 @@ I'm Rostyslav Sharuiev a Junior Software Engineer with 2 years of experience and
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/463a06217)
 [![Mail Badge](https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram&logoColor=white)](https://instagram.com/se.bastian6186)
-[![Mail Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/beerslayer)
+[![Mail Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/r_frontend)
 [![Mail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:rostislavkpi@gmail.com)
 
 💪 My side activity:
